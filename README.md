@@ -104,7 +104,7 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
     <tr>
       <td><a href="https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/">1373. Maximum Sum BST in Binary Tree</a></td>
       <td><a href="./1373.py">1373.py</a></td>
-      <td><a href="https://youtu.be/">Link</a></td>
+      <td><a href="https://youtu.be/mub7dcKXI34">Link</a></td>
     </tr>
   </tbody>
 </table>
