@@ -115,7 +115,7 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
   <p><strong>Imagem 3 - Resolução do exercício XX</strong></p>
 </div>
 
-![xx](Screenshots/xx.png)
+![450](Screenshots/450.png)
 
 #### 🟡 Questão Média
 
@@ -131,13 +131,17 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/">XX. Nome da Questão</a></td>
-      <td><a href="./xx.py">xx.py</a></td>
+      <td><a href="https://leetcode.com/problems/delete-node-in-a-bst/description/">450. Delete Node in a BST</a></td>
+      <td><a href="./450.py">450.py</a></td>
       <td><a href="https://youtu.be/6p">Link</a></td>
     </tr>
   </tbody>
 </table>
 
+</div>
+
+<div align="center">
+  <p><strong>Imagem 4 - Resolução do exercício 450</strong></p>
 </div>
 
 ---
