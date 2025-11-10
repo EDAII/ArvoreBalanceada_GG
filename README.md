@@ -133,7 +133,7 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
     <tr>
       <td><a href="https://leetcode.com/problems/delete-node-in-a-bst/description/">450. Delete Node in a BST</a></td>
       <td><a href="./450.py">450.py</a></td>
-      <td><a href="https://youtu.be/6p">Link</a></td>
+      <td><a href="https://youtu.be/4GKkZGjB6tQ">Link</a></td>
     </tr>
   </tbody>
 </table>
