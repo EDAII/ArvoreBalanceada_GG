@@ -115,7 +115,7 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
   <p><strong>Imagem 3 - Resolução do exercício XX</strong></p>
 </div>
 
-![450](Screenshots/450.png)
+![xx](Screenshots/xx.png)
 
 #### 🟡 Questão Média
 
@@ -143,6 +143,8 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
 <div align="center">
   <p><strong>Imagem 4 - Resolução do exercício 450</strong></p>
 </div>
+
+![450](Screenshots/450.png)
 
 ---
 
