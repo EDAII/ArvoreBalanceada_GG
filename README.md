@@ -1,4 +1,4 @@
-# 🔍 Estrutura de Dados - Ordenação e Busca
+# 🔍 Estrutura de Dados - Manipulação de Árvores
 
 **Conteúdo da Disciplina:**
 
