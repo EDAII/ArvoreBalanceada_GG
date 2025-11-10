@@ -102,8 +102,8 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/">XX. Nome da Questão</a></td>
-      <td><a href="./xx.py">xx.py</a></td>
+      <td><a href="https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/">1373. Maximum Sum BST in Binary Tree</a></td>
+      <td><a href="./1373.py">1373.py</a></td>
       <td><a href="https://youtu.be/">Link</a></td>
     </tr>
   </tbody>
@@ -112,10 +112,10 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
 </div>
 
 <div align="center">
-  <p><strong>Imagem 3 - Resolução do exercício XX</strong></p>
+  <p><strong>Imagem 3 - Resolução do exercício 1373</strong></p>
 </div>
 
-![xx](Screenshots/xx.png)
+![xx](Screenshots/1373.png)
 
 #### 🟡 Questão Média
 
