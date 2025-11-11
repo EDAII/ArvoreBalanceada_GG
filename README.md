@@ -39,8 +39,8 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/">XX. Nome da Questão</a></td>
-      <td><a href="./xx.cpp">xx.cpp</a></td>
+      <td><a href="https://leetcode.com/problems/count-of-smaller-numbers-after-self/description">315. Count of Smaller Numbers After Self</a></td>
+      <td><a href="./315.py">315.c</a></td>
       <td><a href="https://youtu.be">Link</a></td>
     </tr>
   </tbody>
@@ -52,7 +52,7 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
   <p><strong>Imagem 1 - Resolução do exercício XX</strong></p>
 </div>
 
-![xx](Screenshots/xx.png)
+![xx](Screenshots/315.png)
 
 
 #### 🟡 Questão Média
@@ -69,8 +69,8 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems">XX. Nome da Questão</a></td>
-      <td><a href="./xx.cpp">xx.cpp</a></td>
+      <td><a href="https://leetcode.com/problems/balance-a-binary-search-tree/description">1382. Balance a Binary Search Tree</a></td>
+      <td><a href="./1382.py">1382.c</a></td>
       <td><a href="https://youtu.be">Link</a></td>
     </tr>   
   </tbody>
@@ -82,7 +82,7 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
   <p><strong>Imagem 2 - Resolução do exercício XX</strong></p>
 </div>
 
-![xx](Screenshots/xx.png)
+![xx](Screenshots/1382.png)
 
 ---
 
