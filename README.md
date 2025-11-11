@@ -40,7 +40,7 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
   <tbody>
     <tr>
       <td><a href="https://leetcode.com/problems/count-of-smaller-numbers-after-self/description">315. Count of Smaller Numbers After Self</a></td>
-      <td><a href="./315.py">315.c</a></td>
+      <td><a href="./315.c">315.c</a></td>
       <td><a href="https://www.youtube.com/watch?v=9rY72SO57EM">Link</a></td>
     </tr>
   </tbody>
@@ -70,7 +70,7 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
   <tbody>
     <tr>
       <td><a href="https://leetcode.com/problems/balance-a-binary-search-tree/description">1382. Balance a Binary Search Tree</a></td>
-      <td><a href="./1382.py">1382.c</a></td>
+      <td><a href="./1382.c">1382.c</a></td>
       <td><a href="https://www.youtube.com/watch?v=KIuGeF-VG5U">Link</a></td>
     </tr>   
   </tbody>
